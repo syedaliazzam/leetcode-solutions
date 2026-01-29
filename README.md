@@ -25,6 +25,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
