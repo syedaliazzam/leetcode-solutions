@@ -8,6 +8,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -96,6 +97,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
@@ -104,6 +106,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
 |  |
