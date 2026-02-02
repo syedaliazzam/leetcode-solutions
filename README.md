@@ -29,6 +29,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 ## Math
 |  |
@@ -104,6 +105,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | ------- |
 | [0011-container-with-most-water](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
