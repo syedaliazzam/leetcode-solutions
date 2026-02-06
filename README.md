@@ -44,6 +44,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0002-add-two-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -145,4 +146,8 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
