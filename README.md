@@ -10,6 +10,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0011-container-with-most-water](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -124,6 +125,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0019-remove-nth-node-from-end-of-list](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0031-next-permutation) |
 ## Greedy
 |  |
 | ------- |
