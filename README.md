@@ -92,6 +92,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -133,6 +134,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -155,4 +157,20 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0029-divide-two-integers) |
+## Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
