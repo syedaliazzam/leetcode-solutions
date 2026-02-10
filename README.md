@@ -21,6 +21,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [3889-minimum-cost-path-with-teleportations](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3952-trionic-array-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3956-trionic-array-ii) |
+| [4045-longest-balanced-subarray-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4045-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,6 +65,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0030-substring-with-concatenation-of-all-words](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [4045-longest-balanced-subarray-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4045-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -96,6 +98,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0004-median-of-two-sorted-arrays](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
+| [4045-longest-balanced-subarray-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4045-longest-balanced-subarray-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -176,4 +179,12 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [4045-longest-balanced-subarray-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4045-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [4045-longest-balanced-subarray-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4045-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
