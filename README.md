@@ -50,12 +50,14 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0007-reverse-integer](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0060-permutation-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0060-permutation-sequence) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0060-permutation-sequence) |
 ## Hash Table
 |  |
 | ------- |
