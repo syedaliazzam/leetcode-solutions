@@ -85,6 +85,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0038-count-and-say) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 ## Sliding Window
