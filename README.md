@@ -13,6 +13,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0031-next-permutation](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
@@ -35,6 +36,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
 ## Linked List
 |  |
@@ -67,6 +69,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0017-letter-combinations-of-a-phone-number](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4047-longest-balanced-subarray-ii) |
@@ -160,6 +163,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0037-sudoku-solver) |
 ## String Matching
 |  |
 | ------- |
