@@ -34,6 +34,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0022-generate-parentheses](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3956-trionic-array-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3956-trionic-array-ii) |
@@ -66,6 +67,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0002-add-two-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0060-permutation-sequence) |
 ## Hash Table
 |  |
@@ -95,6 +97,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0032-longest-valid-parentheses](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4055-longest-balanced-substring-i) |
@@ -161,6 +164,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Sorting
 |  |
