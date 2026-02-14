@@ -19,6 +19,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0041-first-missing-positive](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
@@ -172,6 +173,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
 |  |
@@ -187,6 +189,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0039-combination-sum](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0047-permutations-ii) |
 ## String Matching
 |  |
 | ------- |
