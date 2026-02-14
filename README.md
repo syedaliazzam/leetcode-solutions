@@ -35,6 +35,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0032-longest-valid-parentheses](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0815-champagne-tower](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0815-champagne-tower) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3956-trionic-array-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3956-trionic-array-ii) |
