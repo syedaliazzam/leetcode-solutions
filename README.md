@@ -22,6 +22,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0047-permutations-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0051-n-queens) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
@@ -199,6 +200,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0040-combination-sum-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0051-n-queens) |
 ## String Matching
 |  |
 | ------- |
