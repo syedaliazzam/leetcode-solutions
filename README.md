@@ -23,6 +23,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0048-rotate-image](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
@@ -40,6 +41,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0032-longest-valid-parentheses](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0815-champagne-tower](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0815-champagne-tower) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
@@ -130,6 +132,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [4045-longest-balanced-subarray-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4047-longest-balanced-subarray-ii) |
