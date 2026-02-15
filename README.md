@@ -24,6 +24,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0049-group-anagrams](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
@@ -52,6 +53,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0036-valid-sudoku](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
 ## Linked List
 |  |
@@ -251,5 +253,6 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
