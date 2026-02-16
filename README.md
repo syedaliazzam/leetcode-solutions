@@ -26,6 +26,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0053-maximum-subarray](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
@@ -55,6 +56,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0037-sudoku-solver](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
 ## Linked List
 |  |
@@ -258,5 +260,6 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | ------- |
 | [0043-multiply-strings](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
