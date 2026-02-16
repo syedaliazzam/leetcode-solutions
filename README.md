@@ -135,6 +135,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0004-median-of-two-sorted-arrays](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [4045-longest-balanced-subarray-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4047-longest-balanced-subarray-ii) |
@@ -215,6 +216,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | ------- |
 | [0029-divide-two-integers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Tree
 |  |
 | ------- |
