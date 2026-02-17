@@ -45,6 +45,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0042-trapping-rain-water](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0815-champagne-tower](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0815-champagne-tower) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
@@ -76,6 +77,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0043-multiply-strings](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0067-add-binary) |
 ## Recursion
 |  |
@@ -264,4 +266,8 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0054-spiral-matrix](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0067-add-binary) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
