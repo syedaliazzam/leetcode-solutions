@@ -27,6 +27,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0054-spiral-matrix](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0068-text-justification) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -79,6 +80,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0048-rotate-image](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0069-sqrtx) |
 ## Recursion
