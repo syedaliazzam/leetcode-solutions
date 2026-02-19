@@ -48,6 +48,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0044-wildcard-matching](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0815-champagne-tower](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0815-champagne-tower) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
@@ -83,6 +84,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0066-plus-one](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -280,4 +282,8 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
