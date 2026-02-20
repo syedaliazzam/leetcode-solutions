@@ -110,6 +110,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0041-first-missing-positive](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4047-longest-balanced-subarray-ii) |
@@ -132,6 +133,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0049-group-anagrams](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0696-count-binary-substrings](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -142,6 +144,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Binary Search
 |  |
