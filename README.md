@@ -238,6 +238,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0046-permutations](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0077-combinations) |
 | [0401-binary-watch](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0401-binary-watch) |
 ## String Matching
 |  |
