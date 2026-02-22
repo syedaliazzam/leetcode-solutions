@@ -252,6 +252,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0190-reverse-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0868-binary-gap](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0868-binary-gap) |
 ## Tree
 |  |
 | ------- |
