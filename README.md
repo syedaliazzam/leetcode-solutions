@@ -33,6 +33,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0074-search-a-2d-matrix](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
@@ -208,6 +209,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0031-next-permutation](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0696-count-binary-substrings](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 ## Greedy
 |  |
