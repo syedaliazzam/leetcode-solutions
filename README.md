@@ -37,6 +37,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
@@ -57,6 +58,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0053-maximum-subarray](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0815-champagne-tower](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0815-champagne-tower) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
@@ -72,6 +74,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0073-set-matrix-zeroes](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
 ## Linked List
 |  |
@@ -194,6 +197,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0032-longest-valid-parentheses](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -308,6 +312,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | ------- |
 | [0042-trapping-rain-water](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
