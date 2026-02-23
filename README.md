@@ -86,6 +86,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0025-reverse-nodes-in-k-group](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0086-partition-list) |
 ## Math
 |  |
 | ------- |
@@ -224,6 +225,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0075-sort-colors](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0086-partition-list) |
 | [0696-count-binary-substrings](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 ## Greedy
 |  |
