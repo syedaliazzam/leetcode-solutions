@@ -60,6 +60,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0062-unique-paths](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0815-champagne-tower](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0815-champagne-tower) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
@@ -149,6 +150,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0068-text-justification](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0696-count-binary-substrings](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
