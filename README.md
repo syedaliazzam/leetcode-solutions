@@ -108,6 +108,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0069-sqrtx](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0089-gray-code) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -296,6 +297,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -343,6 +345,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0067-add-binary](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0068-text-justification) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Combinatorics
 |  |
 | ------- |
