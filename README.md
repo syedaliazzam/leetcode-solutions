@@ -322,6 +322,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0096-unique-binary-search-trees](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0100-same-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -330,6 +331,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0094-binary-tree-inorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0100-same-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -347,6 +349,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0096-unique-binary-search-trees](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0100-same-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Segment Tree
 |  |
@@ -396,4 +399,8 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
