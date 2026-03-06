@@ -41,6 +41,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0088-merge-sorted-array](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -141,6 +142,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0073-set-matrix-zeroes](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4045-longest-balanced-subarray-i) |
@@ -204,6 +206,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0023-merge-k-sorted-lists](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
@@ -335,6 +338,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -369,6 +373,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Segment Tree
 |  |
