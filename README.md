@@ -102,6 +102,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0086-partition-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -209,6 +210,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
@@ -343,6 +345,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -363,6 +366,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0098-validate-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -381,6 +385,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Segment Tree
 |  |
