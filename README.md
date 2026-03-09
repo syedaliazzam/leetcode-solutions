@@ -73,6 +73,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0095-unique-binary-search-trees-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0815-champagne-tower](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0815-champagne-tower) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -180,6 +181,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0091-decode-ways](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0696-count-binary-substrings](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
