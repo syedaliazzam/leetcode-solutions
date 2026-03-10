@@ -44,6 +44,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0120-triangle) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -76,6 +77,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0097-interleaving-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0120-triangle) |
 | [0815-champagne-tower](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0815-champagne-tower) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
