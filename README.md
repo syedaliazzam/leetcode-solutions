@@ -49,6 +49,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -105,6 +106,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0074-search-a-2d-matrix](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
@@ -416,6 +418,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -520,10 +523,12 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0130-surrounded-regions) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
