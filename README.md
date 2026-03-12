@@ -88,6 +88,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0815-champagne-tower](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0815-champagne-tower) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -206,6 +207,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0126-word-ladder-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0696-count-binary-substrings](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
