@@ -51,6 +51,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0128-longest-consecutive-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0135-candy) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -315,6 +316,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0044-wildcard-matching](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0135-candy) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
