@@ -232,6 +232,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0074-search-a-2d-matrix](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -252,6 +253,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Shortest Path
 |  |
 | ------- |
@@ -306,6 +308,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sorting
 |  |
 | ------- |
@@ -518,4 +521,9 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
