@@ -54,6 +54,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0135-candy](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0139-word-break) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -94,6 +95,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0124-binary-tree-maximum-path-sum](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0139-word-break) |
 | [0815-champagne-tower](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0815-champagne-tower) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -181,6 +183,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0128-longest-consecutive-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0139-word-break) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -217,6 +220,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0127-word-ladder](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0139-word-break) |
 | [0696-count-binary-substrings](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -299,6 +303,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0139-word-break) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3238-minimum-cost-to-convert-string-ii) |
 ## Two Pointers
 |  |
@@ -523,6 +528,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0139-word-break) |
 ## Rolling Hash
 |  |
 | ------- |
