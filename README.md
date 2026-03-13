@@ -53,6 +53,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0134-gas-station](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -380,6 +381,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0089-gray-code](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
