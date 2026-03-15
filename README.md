@@ -155,6 +155,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0070-climbing-stairs](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [1622-fancy-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Recursion
@@ -500,6 +501,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [4045-longest-balanced-subarray-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4047-longest-balanced-subarray-ii) |
 ## Prefix Sum
@@ -576,4 +578,8 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
