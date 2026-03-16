@@ -142,6 +142,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0141-linked-list-cycle](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -197,6 +198,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0140-word-break-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0146-lru-cache) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -602,5 +604,10 @@ This repository contains my solutions to various LeetCode problems, automaticall
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0146-lru-cache) |
 | [1622-fancy-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1622-fancy-sequence) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
