@@ -143,6 +143,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0142-linked-list-cycle-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0147-insertion-sort-list](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -369,6 +370,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0056-merge-intervals](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0147-insertion-sort-list](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0761-special-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
