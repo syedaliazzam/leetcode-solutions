@@ -261,6 +261,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0139-word-break](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0696-count-binary-substrings](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -381,6 +382,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0148-sort-list](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0165-compare-version-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0696-count-binary-substrings](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 ## Greedy
 |  |
