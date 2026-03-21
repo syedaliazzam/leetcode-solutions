@@ -79,6 +79,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3952-trionic-array-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3956-trionic-array-ii) |
@@ -139,6 +140,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
 ## Linked List
 |  |
@@ -392,6 +394,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0165-compare-version-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0696-count-binary-substrings](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0696-count-binary-substrings) |
+| [3643-flip-square-submatrix-vertically](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
 | ------- |
