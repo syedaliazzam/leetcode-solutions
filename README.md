@@ -354,6 +354,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0145-binary-tree-postorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -512,6 +513,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0129-sum-root-to-leaf-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -546,6 +548,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0099-recover-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -576,6 +579,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0129-sum-root-to-leaf-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Segment Tree
 |  |
@@ -665,6 +669,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | ------- |
 | [0146-lru-cache](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [1622-fancy-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
 |  |
@@ -674,4 +679,8 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
