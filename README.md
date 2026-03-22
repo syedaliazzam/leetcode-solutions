@@ -692,4 +692,8 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
