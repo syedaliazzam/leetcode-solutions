@@ -696,4 +696,5 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
