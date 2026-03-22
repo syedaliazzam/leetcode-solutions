@@ -64,6 +64,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0162-find-peak-element](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0174-dungeon-game) |
+| [0179-largest-number](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0179-largest-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -278,6 +279,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0166-fraction-to-recurring-decimal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0179-largest-number) |
 | [0696-count-binary-substrings](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -412,6 +414,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0179-largest-number) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -429,6 +432,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0088-merge-sorted-array](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0179-largest-number) |
 | [0761-special-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
