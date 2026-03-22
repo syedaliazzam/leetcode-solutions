@@ -236,6 +236,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0149-max-points-on-a-line](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0187-repeated-dna-sequences](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -280,6 +281,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0168-excel-sheet-column-title](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0696-count-binary-substrings](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -300,6 +302,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0003-longest-substring-without-repeating-characters](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -484,6 +487,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0090-subsets-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
@@ -641,10 +645,12 @@ This repository contains my solutions to various LeetCode problems, automaticall
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Breadth-First Search
 |  |
