@@ -337,6 +337,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0761-special-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [4045-longest-balanced-subarray-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4045-longest-balanced-subarray-i) |
@@ -494,6 +495,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0137-single-number-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0401-binary-watch](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0868-binary-gap) |
