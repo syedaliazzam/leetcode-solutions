@@ -66,6 +66,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0174-dungeon-game](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -196,6 +197,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0168-excel-sheet-column-title](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1622-fancy-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -409,6 +411,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0160-intersection-of-two-linked-lists](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0696-count-binary-substrings](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [3643-flip-square-submatrix-vertically](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
