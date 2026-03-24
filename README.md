@@ -86,6 +86,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3889-minimum-cost-path-with-teleportations) |
@@ -180,6 +181,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0147-insertion-sort-list](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -250,6 +252,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4047-longest-balanced-subarray-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4055-longest-balanced-substring-i) |
@@ -383,6 +386,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -649,6 +653,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -707,6 +712,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0146-lru-cache) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -721,4 +727,8 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0183-customers-who-never-order](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0185-department-top-three-salaries) |
+## Ordered Set
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
