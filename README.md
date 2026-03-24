@@ -86,6 +86,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -517,6 +518,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Tree
 |  |
 | ------- |
