@@ -67,6 +67,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0179-largest-number](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -251,6 +252,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0160-intersection-of-two-linked-lists](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0229-majority-element-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -456,6 +458,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0147-insertion-sort-list](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0761-special-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -638,6 +641,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [4055-longest-balanced-substring-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4055-longest-balanced-substring-i) |
 ## Monotonic Stack
