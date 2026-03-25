@@ -561,6 +561,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0144-binary-tree-preorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -585,6 +586,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0133-clone-graph](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -596,6 +598,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -627,6 +630,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0144-binary-tree-preorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Segment Tree
 |  |
