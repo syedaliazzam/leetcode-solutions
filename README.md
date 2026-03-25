@@ -128,6 +128,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0152-maximum-product-subarray](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0233-number-of-digit-one](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [0815-champagne-tower](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0815-champagne-tower) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -211,6 +212,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0171-excel-sheet-column-number](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0233-number-of-digit-one](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [1622-fancy-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -224,6 +226,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0044-wildcard-matching](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0233-number-of-digit-one](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Hash Table
 |  |
