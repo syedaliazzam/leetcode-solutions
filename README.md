@@ -212,6 +212,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0171-excel-sheet-column-number](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [1622-fancy-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -226,6 +227,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0044-wildcard-matching](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Hash Table
@@ -521,6 +523,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0187-repeated-dna-sequences](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0868-binary-gap) |
