@@ -78,6 +78,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1895-largest-magic-square](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1980-find-unique-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2906-construct-product-matrix](https://github.com/syedaliazzam/leetcode-solutions/tree/master/2906-construct-product-matrix) |
@@ -160,6 +161,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [1727-largest-submatrix-with-rearrangements](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1895-largest-magic-square](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [2906-construct-product-matrix](https://github.com/syedaliazzam/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -653,6 +655,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1895-largest-magic-square](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [2906-construct-product-matrix](https://github.com/syedaliazzam/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
