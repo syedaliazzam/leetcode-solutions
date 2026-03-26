@@ -82,6 +82,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [1980-find-unique-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2906-construct-product-matrix](https://github.com/syedaliazzam/leetcode-solutions/tree/master/2906-construct-product-matrix) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/syedaliazzam/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -270,6 +271,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0229-majority-element-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/syedaliazzam/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -488,6 +490,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 ## Enumeration
 |  |
 | ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/syedaliazzam/leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
