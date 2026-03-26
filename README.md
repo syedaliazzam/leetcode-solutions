@@ -82,6 +82,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [1980-find-unique-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2906-construct-product-matrix](https://github.com/syedaliazzam/leetcode-solutions/tree/master/2906-construct-product-matrix) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -223,6 +224,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [1622-fancy-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Recursion
 |  |
@@ -753,6 +755,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Iterator
 |  |
 | ------- |
