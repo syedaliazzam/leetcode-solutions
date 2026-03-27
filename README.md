@@ -95,6 +95,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3454-separate-squares-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -361,6 +362,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Divide and Conquer
 |  |
@@ -658,6 +660,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1622-fancy-sequence) |
+| [3454-separate-squares-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3454-separate-squares-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/4047-longest-balanced-subarray-ii) |
 ## Prefix Sum
@@ -785,4 +788,8 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Sweep Line
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
