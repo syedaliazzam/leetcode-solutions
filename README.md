@@ -69,6 +69,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0189-rotate-array](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1266-minimum-time-visiting-all-points](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -226,6 +227,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0189-rotate-array](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0233-number-of-digit-one) |
+| [1266-minimum-time-visiting-all-points](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1622-fancy-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -767,6 +769,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [1266-minimum-time-visiting-all-points](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Iterator
 |  |
