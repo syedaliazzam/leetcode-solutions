@@ -229,6 +229,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0172-factorial-trailing-zeroes](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [1266-minimum-time-visiting-all-points](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -247,6 +248,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0044-wildcard-matching](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -328,6 +330,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0171-excel-sheet-column-number](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0224-basic-calculator](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0696-count-binary-substrings](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -416,6 +419,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Heap (Priority Queue)
 |  |
