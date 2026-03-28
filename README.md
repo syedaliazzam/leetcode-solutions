@@ -228,6 +228,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0171-excel-sheet-column-number](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0233-number-of-digit-one) |
 | [1266-minimum-time-visiting-all-points](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -775,6 +776,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/syedaliazzam/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Iterator
