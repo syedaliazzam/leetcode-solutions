@@ -420,6 +420,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0155-min-stack](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Heap (Priority Queue)
 |  |
@@ -769,6 +770,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 | [0146-lru-cache](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1622-fancy-sequence](https://github.com/syedaliazzam/leetcode-solutions/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
@@ -802,6 +804,7 @@ This repository contains my solutions to various LeetCode problems, automaticall
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/syedaliazzam/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Sweep Line
 |  |
